@@ -10,13 +10,8 @@ import { Home, About, Services, Contact, Privacy, Terms, Imprint } from './pages
 import { Navbar, Footer } from './components';
 
 function App() {
-  // Get basename from package.json homepage url if in production
-  const basename = process.env.NODE_ENV === 'production' 
-    ? '/taxiconnect' 
-    : '/';
-
   return (
-    <Router basename={basename}>
+    <Router>
       <Navbar />
       <div className="App">
         <Routes>
