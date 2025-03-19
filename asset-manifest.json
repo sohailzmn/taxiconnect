@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/taxiconnect/static/css/main.9e795aab.css",
+    "main.css": "/taxiconnect/static/css/main.532274a1.css",
     "main.js": "/taxiconnect/static/js/main.3227295d.js",
     "static/js/453.4efc0aa6.chunk.js": "/taxiconnect/static/js/453.4efc0aa6.chunk.js",
     "index.html": "/taxiconnect/index.html",
-    "main.9e795aab.css.map": "/taxiconnect/static/css/main.9e795aab.css.map",
+    "main.532274a1.css.map": "/taxiconnect/static/css/main.532274a1.css.map",
     "main.3227295d.js.map": "/taxiconnect/static/js/main.3227295d.js.map",
     "453.4efc0aa6.chunk.js.map": "/taxiconnect/static/js/453.4efc0aa6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e795aab.css",
+    "static/css/main.532274a1.css",
     "static/js/main.3227295d.js"
   ]
 }
