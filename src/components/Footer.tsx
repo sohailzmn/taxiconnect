@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center mb-4">
               <i className="fas fa-car-side text-2xl text-white mr-2"></i>
-              <span className="text-xl font-bold">TAXI Connect</span>
+              <span className="text-xl font-bold">Taxi service Neumünster</span>
             </div>
             <p className="text-gray-400 mb-4">
               Ihr zuverlässiger Partner für Premium-Taxiservice in Neumünster und Umgebung.
@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-start">
                 <i className="fas fa-envelope mt-1 mr-3 text-gray-400"></i>
-                <span className="text-gray-400">info@taxi-connect.de</span>
+                <span className="text-gray-400">info@taxi-neumünster.de</span>
               </li>
             </ul>
           </div>
@@ -71,7 +71,7 @@ const Footer: React.FC = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            © {new Date().getFullYear()} TAXI Connect. Alle Rechte vorbehalten.
+            © {new Date().getFullYear()} Taxi service Neumünster. Alle Rechte vorbehalten.
           </p>
           <div className="flex space-x-4 text-sm text-gray-500">
             <Link to="/datenschutz" className="text-gray-500 hover:text-white transition-colors no-underline">Datenschutz</Link>

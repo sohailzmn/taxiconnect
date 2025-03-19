@@ -13,12 +13,12 @@ const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           {/* Logo with Link to Homepage */}
-          <Link to="/" className="flex items-center no-underline" aria-label="TAXI Connect Home">
+          <Link to="/" className="flex items-center no-underline" aria-label="Taxi service Neumünster Home">
             <div className="flex items-center">
               <div className="bg-[var(--primary-color)] p-3 rounded-lg shadow-md">
                 <i className="fas fa-taxi text-2xl text-white"></i>
               </div>
-              <span className="text-xl font-bold text-gray-800 ml-3">Taxi Connect</span>
+              <span className="text-xl font-bold text-gray-800 ml-3">Taxi service Neumünster</span>
             </div>
           </Link>
           
